@@ -3,6 +3,7 @@
 ![Design preview for the Multi-step form coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
+https://rishabhpassi.github.io/Multi-Step-Form-HTML-CSS-JAVASCRIPT/
 
 Thanks for checking out this front-end coding challenge.
 
